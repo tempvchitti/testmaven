@@ -16,7 +16,7 @@ public class YahooParser {
 	public Weather parse(InputStream inputStream) throws Exception {
 		Weather weather = new Weather();
 		
-		log.info( "Creating XML Reader::::::::::::::" );
+		log.info( "Creating XML Reader::::::::::::::>>>>>" );
 		SAXReader xmlReader = createXmlReader();
 		Document doc = xmlReader.read( inputStream );
 
