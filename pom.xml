@@ -18,6 +18,13 @@
 		<developerConnection>scm:git:git@github.com:tempvchitti/testmaven.git</developerConnection>
 	  <tag>HEAD</tag>
   </scm>
+  <distributionManagement>
+      <repository>
+         <id>Core-API-Java-Release</id>
+         <name>Release repository</name>
+         <url>C:\mvnrepo</url>
+      </repository>
+   </distributionManagement>
 	<build>
 		<pluginManagement>
 			<plugins>
