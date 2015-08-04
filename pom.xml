@@ -4,7 +4,7 @@
 	<groupId>com.discover.maventest</groupId>
 	<artifactId>simple-parent</artifactId>
 	<packaging>pom</packaging>
-	<version>1.4</version>
+	<version>1.5-SNAPSHOT</version>
 	<name>Multi Chapter Simple Parent Project</name>
 
 	<modules>
@@ -16,7 +16,7 @@
 		<!-- <url>scm:git:git@github.com:tempvchitti/testmaven.git</url> -->
 		<url>scm:git:git@github.com:tempvchitti/testmaven</url>
 		<developerConnection>scm:git:git@github.com:tempvchitti/testmaven.git</developerConnection>
-	  <tag>simple-parent-1.4</tag>
+	  <tag>HEAD</tag>
   </scm>
   <distributionManagement>
       <repository>
