@@ -13,7 +13,8 @@
 	</modules>
 	<scm>
 		<connection>scm:git:git@github.com:tempvchitti/testmaven.git</connection>
-		<url>scm:git:git@github.com:tempvchitti/testmaven.git</url>
+		<!-- <url>scm:git:git@github.com:tempvchitti/testmaven.git</url> -->
+		<url>https://github.com/tempvchitti/testmaven</url>
 		<developerConnection>scm:git:git@github.com:tempvchitti/testmaven.git</developerConnection>
 	</scm>
 	<build>
