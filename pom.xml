@@ -4,7 +4,7 @@
 	<groupId>com.discover.maventest</groupId>
 	<artifactId>simple-parent</artifactId>
 	<packaging>pom</packaging>
-	<version>1.8-SNAPSHOT</version>
+	<version>1.8</version>
 	<name>Multi Chapter Simple Parent Project</name>
 
 	<modules>
