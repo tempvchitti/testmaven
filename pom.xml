@@ -12,10 +12,10 @@
 		<module>simple-webapp</module>
 	</modules>
 	<scm>
-		<connection>scm:git:git@github.com:tempvchitti/testmaven.git</connection>
-		<url>scm:git:git@github.com:tempvchitti/testmaven.git</url>
+		<connection>scm:git:ssh://git@github.com/tempvchitti/testmaven.git</connection>
+		<url>https://github.com/tempvchitti/testmaven</url>
 		<!-- <url>scm:git:git@github.com:tempvchitti/testmaven</url> -->
-		<developerConnection>scm:git:git@github.com:tempvchitti/testmaven.git</developerConnection>
+		<developerConnection>scm:git:ssh://git@github.com/tempvchitti/testmaven.git</developerConnection>
 	  <tag>simple-parent-1.8</tag>
   </scm>
   <distributionManagement>
